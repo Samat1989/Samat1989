@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samat1989
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me samat.masgutov@gmail.com
 
